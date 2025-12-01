@@ -1,4 +1,3 @@
-Sure! Here is a clean, copy-pastable **README.md** version — properly formatted, polished, and ready for GitHub:
 
 ---
 
